@@ -1,5 +1,6 @@
 # Solidity-Fun
-This repo is my playground and experimentation with Solidity ChainLink bootcamp.  
+This repo is my playground and experimentation with Solidity ChainLink bootcamp (.  
+(ref: https://docs.chain.link/)
 
 These solidity contracts are for testing and learning purposes ONLY and are intended for Ethereum testnet, NOT mainnet/production.
 
@@ -13,7 +14,10 @@ Token.sol -> https://sepolia.etherscan.io/token/0xa71492d2e795434fb5ca60e4bf4ff7
 
 TokenShop.sol -> https://sepolia.etherscan.io/address/0x6B1c745654EB68aF7E785AB45Ed54A8cb21CA585  
 
+Flower.sol -> https://sepolia.etherscan.io/address/0x61f0fc6ebd58c9eb102db4953a53bc619aecc19f
 
 
-Avax testnet (Fuji) deployment addresses:    
+
+Avax testnet (Fuji) deployment addresses:   
+
 TransferUSDCBasic.sol -> https://testnet.snowtrace.io/address/0x432715F03F3D745E770d3657992AA52D897CFd84
